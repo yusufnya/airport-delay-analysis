@@ -28,6 +28,12 @@ SQLite, SQL, Tableau, Excel
 ## Files Included:
 - `Airport Delay Project.docx` – Full project summary with queries, analysis, and conclusions  
 - `airport_delay_queries.sql` – Extracted SQL queries used in the analysis
-Tableau Visualizations
+
+---
+
+Tableau Visualizations:
+
+![Q4 Picture (Tableau Stacked Bar Chart)](https://github.com/user-attachments/assets/70abc563-234e-4e89-a7b1-9ee707e19d97)
+
 
 ---
