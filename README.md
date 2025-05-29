@@ -28,8 +28,6 @@ SQLite, SQL, Tableau, Excel
 ## Files Included:
 - `Airport Delay Project.docx` – Full project summary with queries, analysis, and conclusions  
 - `airport_delay_queries.sql` – Extracted SQL queries used in the analysis
+Tableau Visualizations
 
 ---
-
-## Tableau Visualizations:
-*Add Tableau Public link or screenshot references here if applicable*
